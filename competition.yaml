@@ -1,13 +1,13 @@
 competitor-a: 
-  name: random-a
+  name: Grootbot-a
   team: human
-  hostname: niels-mac
+  hostname: Sahanas-Air
   port: 5000
   token: '1234'
 competitor-b: 
-  name: random-b
+  name: Grootbot-b
   team: human
-  hostname: niels-mac
+  hostname: Sahanas-Air
   port: 6000
   token: '1234'
 num_games: 10
